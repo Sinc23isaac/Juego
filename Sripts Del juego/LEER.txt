@@ -1,0 +1,3 @@
+Hola buenas aqui esta los script de mi videojuego. 
+Esta la parte del codigo del personaje sus movimientos tanto de la camara como del personaje, la funcion principal que es recoger monedas y la parte de menu opcione scomo menu principal.
+
